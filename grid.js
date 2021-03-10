@@ -52,8 +52,3 @@ const createGrid = (gridSquare, grid) => {
 
 } 
 createGrid(gridSquare); //create 16x16 grid;
-
-
-
-
-// resetButtonObj.classList.add('resetButton');
